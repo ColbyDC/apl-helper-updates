@@ -1,0 +1,35 @@
+{
+  "type": "database-update",
+  "channel": "tester",
+  "version": "test-elite-generator-1",
+  "title": "Elite Generator Test",
+  "notes": "Testing GitHub update from dev to tester",
+  "createdAt": "2026-05-05T07:27:25.067Z",
+  "itemCount": 1,
+  "items": [
+    {
+      "id": "item-mos8uucl-o3ncob",
+      "name": "Elite Generator",
+      "category": "Tool",
+      "slotType": "Token Slot",
+      "mode": "Token-only",
+      "sourceType": "Store",
+      "location": "City Island",
+      "sourceName": "Generators",
+      "cost": "80M",
+      "notes": "",
+      "stats": {
+        "Strength": 0,
+        "Health": 0,
+        "Psychic": 0,
+        "Defense": 0,
+        "Magic": 0,
+        "Melee": 0,
+        "Aura": 0,
+        "Tokens": 900,
+        "Forge Luck": 0
+      },
+      "updatedAt": "2026-05-05T06:25:15.045Z"
+    }
+  ]
+}
