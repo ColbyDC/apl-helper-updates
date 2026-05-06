@@ -1,0 +1,49 @@
+{
+  "type": "master-change-history-entry",
+  "action": "mark-feedback",
+  "title": "Marked feedback 2026-05-06T08-51-36-835Z-nieble as Rejected",
+  "summary": {
+    "feedbackId": "2026-05-06T08-51-36-835Z-nieble",
+    "type": "Error",
+    "submittedBy": "unknown",
+    "status": "rejected",
+    "reviewNote": ""
+  },
+  "details": {
+    "oldPath": "shared-dev/feedback/fixed/2026-05-06T08-51-36-835Z-nieble.json",
+    "newPath": "shared-dev/feedback/rejected/2026-05-06T08-51-36-835Z-nieble.json",
+    "feedback": {
+      "feedbackId": "2026-05-06T08-51-36-835Z-nieble",
+      "status": "rejected",
+      "type": "Error",
+      "channel": "Unknown",
+      "appVersion": "Unknown",
+      "submittedBy": "unknown",
+      "submittedAt": "",
+      "itemName": "",
+      "message": "Original feedback file was broken or empty and could not be parsed: Unexpected end of JSON input",
+      "recovery": {
+        "recoveredBy": "Master",
+        "recoveredAt": "2026-05-06T12:32:48.025Z",
+        "originalPath": "shared-dev/feedback/fixed/2026-05-06T08-51-36-835Z-nieble.json",
+        "originalLength": 0,
+        "originalPreview": ""
+      },
+      "recoveredBrokenFeedback": true,
+      "statusLabel": "Rejected",
+      "reviewedAt": "2026-05-06T12:32:48.025Z",
+      "reviewedBy": "Master",
+      "reviewNote": "",
+      "history": [
+        {
+          "action": "mark-rejected",
+          "at": "2026-05-06T12:32:48.025Z",
+          "by": "Master",
+          "note": ""
+        }
+      ]
+    }
+  },
+  "createdAt": "2026-05-06T12:32:49.674Z",
+  "createdBy": "Master"
+}
