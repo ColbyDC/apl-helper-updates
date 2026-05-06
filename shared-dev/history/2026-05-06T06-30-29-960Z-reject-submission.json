@@ -1,0 +1,16 @@
+{
+  "type": "master-change-history-entry",
+  "action": "reject-submission",
+  "title": "Rejected submission 2026-05-06T06-20-20-998Z-colby",
+  "summary": {
+    "submittedBy": "Colby",
+    "reason": "Older duplicate test submission after shared database setup."
+  },
+  "details": {
+    "submissionId": "2026-05-06T06-20-20-998Z-colby",
+    "rejectedPath": "shared-dev/submissions/rejected/2026-05-06T06-20-20-998Z-colby.json",
+    "reason": "Older duplicate test submission after shared database setup."
+  },
+  "createdAt": "2026-05-06T06:30:29.959Z",
+  "createdBy": "Master"
+}
