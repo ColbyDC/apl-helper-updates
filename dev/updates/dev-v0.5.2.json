@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "dev",
+  "version": "dev-v0.5.2",
+  "title": "Dev v0.5.2 Shared Save All",
+  "notes": "Enables Save All to Shared Database so Dev can safely merge local item changes into the shared GitHub database with duplicate handling, conflict blocking, and backups.\n\nChanges:\n- Enables Save All to Shared Database.\n- Adds Dev name setting.\n- Adds GitHub token setting for shared save.\n- Adds Clear Shared Token button.\n- Save All pulls latest shared database from GitHub first.\n- Save All merges local items into shared database.\n- Exact duplicates are ignored.\n- New non-conflicting local items are added to shared.\n- Conflicts block the save instead of overwriting.\n- Creates before/after local backup cache files.\n- Pushes merged shared database to GitHub through Contents API.\n- Shows save report with counts, backup paths, and commit link.\n- Refresh Shared Database remains available.\n- Submit Update to Master remains disabled for now.\n\nGitHub token requirement for shared save:\n- Repository: ColbyDC/apl-helper-updates\n- Permission: Contents Read and write\n- Metadata Read-only",
+  "createdAt": "2026-05-06T05:00:08.464Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "dev/latest-update.json",
+  "historyPath": "dev/updates/dev-v0.5.2.json",
+  "requiresExe": true,
+  "releaseTag": "dev-v0.5.2",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-dev-v0.5.2-shared-save-all\\anime-power-league-helper-dev\\dist\\Anime-Power-League-Helper-Dev-0.5.2.exe",
+    "originalName": "Anime-Power-League-Helper-Dev-0.5.2.exe",
+    "fileName": "Anime-Power-League-Helper-Dev-dev-v0.5.2.exe",
+    "size": 71360531,
+    "sizeKb": 69688,
+    "releaseTag": "dev-v0.5.2",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/dev-v0.5.2/Anime-Power-League-Helper-Dev-dev-v0.5.2.exe"
+  },
+  "messageOnly": false
+}
