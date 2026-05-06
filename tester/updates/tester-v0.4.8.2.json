@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "tester",
+  "version": "tester-v0.4.8.2",
+  "title": "Tester v0.4.8.2 Gear Display + Item Labels",
+  "notes": "Improves Best Gear display, Buy Next recommendations, All Power scoring, and item/stat labels.\n\nChanges:\n- Improved Best Gear selected filter display\n- Improved Buy Next upgrade recommendations\n- Improved All Power gear scoring\n- Changed Factory Island to Industrial Island\n- Changed Forge Luck to Quality\n- Added Jungle location",
+  "createdAt": "2026-05-06T03:36:24.602Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "tester/latest-update.json",
+  "historyPath": "tester/updates/tester-v0.4.8.2.json",
+  "requiresExe": true,
+  "releaseTag": "tester-v0.4.8.2",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Documents\\Anime Power League Helper\\Apps\\Tester\\Anime Power League Helper Tester.exe",
+    "originalName": "Anime Power League Helper Tester.exe",
+    "fileName": "Anime-Power-League-Helper-Tester-tester-v0.4.8.2.exe",
+    "size": 71124510,
+    "sizeKb": 69458,
+    "releaseTag": "tester-v0.4.8.2",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/tester-v0.4.8.2/Anime-Power-League-Helper-Tester-tester-v0.4.8.2.exe"
+  },
+  "messageOnly": false
+}
