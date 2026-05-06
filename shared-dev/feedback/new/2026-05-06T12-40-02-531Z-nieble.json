@@ -1,0 +1,24 @@
+{
+  "feedbackId": "2026-05-06T12-40-02-531Z-nieble",
+  "status": "new",
+  "type": "Bug",
+  "channel": "Dev",
+  "appVersion": "dev-v0.5.10",
+  "submittedBy": "Nieble",
+  "submittedAt": "2026-05-06T12:40:02.531Z",
+  "itemName": "dwaads",
+  "message": "dsaadsda",
+  "sourceApp": {
+    "channel": "Dev",
+    "version": "dev-v0.5.10",
+    "title": "Feedback Submit JSON Safety Fix"
+  },
+  "summary": {
+    "type": "Bug",
+    "channel": "Dev",
+    "appVersion": "dev-v0.5.10",
+    "submittedBy": "Nieble",
+    "itemName": "dwaads",
+    "messagePreview": "dsaadsda"
+  }
+}
