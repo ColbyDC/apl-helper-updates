@@ -1,0 +1,21 @@
+{
+  "type": "master-change-history-entry",
+  "action": "bulk-delete-broken-feedback",
+  "title": "Bulk deleted broken feedback files",
+  "summary": {
+    "deletedCount": 3,
+    "failedCount": 0,
+    "reason": "Bulk deleted broken feedback files from Master."
+  },
+  "details": {
+    "deleted": [
+      "shared-dev/feedback/rejected/2026-05-06T08-51-36-835Z-nieble.json",
+      "shared-dev/feedback/rejected/2026-05-06T09-12-24-642Z-nieble.json",
+      "shared-dev/feedback/rejected/2026-05-06T12-30-41-317Z-nieble.json"
+    ],
+    "failed": [],
+    "reason": "Bulk deleted broken feedback files from Master."
+  },
+  "createdAt": "2026-05-06T12:39:02.306Z",
+  "createdBy": "Master"
+}
