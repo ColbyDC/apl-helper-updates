@@ -1,7 +1,7 @@
 {
   "type": "temp-access-keys",
-  "version": "temp-access-keys-2026-05-06T07:39:23.087Z",
-  "updatedAt": "2026-05-06T07:39:23.087Z",
+  "version": "temp-access-keys-2026-05-06T07:41:20.148Z",
+  "updatedAt": "2026-05-06T07:41:20.148Z",
   "updatedBy": "colbed",
   "count": 2,
   "items": [
@@ -10,12 +10,15 @@
       "label": "24h Test Key",
       "key": "WVYWGXQI-AC22UERF",
       "role": "tester",
-      "status": "active",
+      "status": "revoked",
       "maxUses": 1,
       "usedCount": 0,
       "createdAt": "2026-05-06T06:40:55.442Z",
       "expiresAt": "2026-05-07T06:40:55.442Z",
-      "notes": ""
+      "notes": "",
+      "revokedAt": "2026-05-06T07:41:20.148Z",
+      "revokedBy": "colbed",
+      "revokeReason": "test complete"
     },
     {
       "id": "tempkey-1778053163087-e8jmwb",
