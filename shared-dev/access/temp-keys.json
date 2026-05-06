@@ -1,9 +1,9 @@
 {
   "type": "temp-access-keys",
-  "version": "temp-access-keys-2026-05-06T07:41:31.018Z",
-  "updatedAt": "2026-05-06T07:41:31.018Z",
-  "updatedBy": "colbed",
-  "count": 2,
+  "version": "temp-access-keys-2026-05-06T08:00:15.778Z",
+  "updatedAt": "2026-05-06T08:00:15.778Z",
+  "updatedBy": "Master",
+  "count": 1,
   "items": [
     {
       "id": "tempkey-2026-05-06T06-40-55-442Z-cywrr9",
@@ -17,21 +17,6 @@
       "expiresAt": "2026-05-07T06:40:55.442Z",
       "notes": "",
       "revokedAt": "2026-05-06T07:41:20.148Z",
-      "revokedBy": "colbed",
-      "revokeReason": "test complete"
-    },
-    {
-      "id": "tempkey-1778053163087-e8jmwb",
-      "label": "Bot",
-      "key": "RUEZ1Q0C-UJNWOAF8",
-      "role": "tester",
-      "status": "revoked",
-      "maxUses": 1,
-      "usedCount": 0,
-      "createdAt": "2026-05-06T07:39:23.087Z",
-      "expiresAt": "2026-05-07T07:39:23.087Z",
-      "notes": "Created from Discord bot",
-      "revokedAt": "2026-05-06T07:41:31.018Z",
       "revokedBy": "colbed",
       "revokeReason": "test complete"
     }
