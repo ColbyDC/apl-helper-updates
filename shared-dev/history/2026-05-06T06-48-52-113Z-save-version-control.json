@@ -1,0 +1,57 @@
+{
+  "type": "master-change-history-entry",
+  "action": "save-version-control",
+  "title": "Saved version control settings",
+  "summary": {
+    "launcher": "",
+    "master": "",
+    "dev": "",
+    "tester": "",
+    "public": ""
+  },
+  "details": {
+    "type": "version-control",
+    "version": "version-control-2026-05-06T06:48:51.239Z",
+    "updatedAt": "2026-05-06T06:48:51.239Z",
+    "updatedBy": "Master",
+    "channels": {
+      "launcher": {
+        "currentVersion": "",
+        "latestTag": "",
+        "forceUpdate": false,
+        "disabledBelow": "",
+        "notes": ""
+      },
+      "master": {
+        "currentVersion": "",
+        "latestTag": "",
+        "forceUpdate": false,
+        "disabledBelow": "",
+        "notes": ""
+      },
+      "dev": {
+        "currentVersion": "",
+        "latestTag": "",
+        "forceUpdate": false,
+        "disabledBelow": "",
+        "notes": ""
+      },
+      "tester": {
+        "currentVersion": "",
+        "latestTag": "",
+        "forceUpdate": false,
+        "disabledBelow": "",
+        "notes": ""
+      },
+      "public": {
+        "currentVersion": "",
+        "latestTag": "",
+        "forceUpdate": false,
+        "disabledBelow": "",
+        "notes": ""
+      }
+    }
+  },
+  "createdAt": "2026-05-06T06:48:52.113Z",
+  "createdBy": "Master"
+}
