@@ -1,20 +1,20 @@
 {
   "type": "access-policies",
-  "version": "access-policies-2026-05-06T06:45:57.819Z",
-  "updatedAt": "2026-05-06T06:45:57.819Z",
+  "version": "access-policies-2026-05-06T06:46:42.844Z",
+  "updatedAt": "2026-05-06T06:46:42.844Z",
   "updatedBy": "Master",
   "discord": {
-    "enabled": true,
+    "enabled": false,
     "requireLinkedDiscord": false,
-    "serverId": "1501474561366032394",
-    "serverName": "APL Help Center",
-    "requiredRoleId": "1501474613643706399",
-    "requiredRoleName": "Member",
+    "serverId": "",
+    "serverName": "",
+    "requiredRoleId": "",
+    "requiredRoleName": "",
     "approvedLight": true,
     "notes": ""
   },
   "device": {
-    "enabled": true,
+    "enabled": false,
     "maxDevicesPerAccount": 1,
     "allowDeviceResetByMaster": true,
     "oneActiveSessionOnly": true,
