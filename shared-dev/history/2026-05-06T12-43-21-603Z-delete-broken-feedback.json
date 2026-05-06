@@ -1,0 +1,15 @@
+{
+  "type": "master-change-history-entry",
+  "action": "delete-broken-feedback",
+  "title": "Deleted broken feedback 2026-05-06T12-40-02-531Z-nieble.json",
+  "summary": {
+    "filePath": "shared-dev/feedback/new/2026-05-06T12-40-02-531Z-nieble.json",
+    "reason": "Deleted broken feedback file from Master."
+  },
+  "details": {
+    "deletedPath": "shared-dev/feedback/new/2026-05-06T12-40-02-531Z-nieble.json",
+    "reason": "Deleted broken feedback file from Master."
+  },
+  "createdAt": "2026-05-06T12:43:21.601Z",
+  "createdBy": "Master"
+}
