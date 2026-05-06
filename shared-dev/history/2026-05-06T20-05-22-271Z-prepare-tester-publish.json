@@ -1,0 +1,31 @@
+{
+  "type": "master-change-history-entry",
+  "action": "prepare-tester-publish",
+  "title": "Prepared Tester publish after Dev approval",
+  "summary": {
+    "version": "tester-data-2026-05-06T20-05-21-609Z",
+    "releaseTag": "tester-data-2026-05-06T20-05-21-609Z",
+    "itemCount": 0,
+    "sharedSha": ""
+  },
+  "details": {
+    "ok": true,
+    "createdAt": "2026-05-06T20:05:21.609Z",
+    "channel": "tester",
+    "updateType": "json-only",
+    "version": "tester-data-2026-05-06T20-05-21-609Z",
+    "releaseTag": "tester-data-2026-05-06T20-05-21-609Z",
+    "title": "Tester Data Update 5/6/2026, 3:05:21 PM",
+    "notes": "Tester shared database update.\\nThis update was prepared after approving/merging a Dev submission in Master.\\nShared database: shared-dev/database.json\\nShared database SHA: N/A\\nShared database size: 0 bytes\\nItem count: 0\\nSmall update only. Tester launcher/app should refresh approved shared data without replacing the Tester app or losing the Update tab.",
+    "sharedInfo": {
+      "path": "shared-dev/database.json",
+      "sha": "",
+      "size": 0,
+      "itemCount": 0,
+      "updatedAt": "",
+      "error": "Unexpected end of JSON input"
+    }
+  },
+  "createdAt": "2026-05-06T20:05:22.271Z",
+  "createdBy": "Master"
+}
