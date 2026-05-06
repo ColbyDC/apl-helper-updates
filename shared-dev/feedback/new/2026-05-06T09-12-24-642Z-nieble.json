@@ -1,0 +1,24 @@
+{
+  "feedbackId": "2026-05-06T09-12-24-642Z-nieble",
+  "status": "new",
+  "type": "Other",
+  "channel": "Dev",
+  "appVersion": "dev-v0.5.8",
+  "submittedBy": "Nieble",
+  "submittedAt": "2026-05-06T09:12:24.642Z",
+  "itemName": "Test",
+  "message": "Test",
+  "sourceApp": {
+    "channel": "Dev",
+    "version": "dev-v0.5.8",
+    "title": "Feedback Top Action Layout"
+  },
+  "summary": {
+    "type": "Other",
+    "channel": "Dev",
+    "appVersion": "dev-v0.5.8",
+    "submittedBy": "Nieble",
+    "itemName": "Test",
+    "messagePreview": "Test"
+  }
+}
