@@ -1,0 +1,15 @@
+{
+  "type": "discord-bot-history-entry",
+  "action": "bot-mark-feedback",
+  "title": "Bot marked feedback 2026-05-06T08-51-36-835Z-nieble as Fixed",
+  "createdAt": "2026-05-06T08:55:52.313Z",
+  "createdBy": "APL Discord Manager Bot",
+  "details": {
+    "actor": "colbed",
+    "feedbackId": "2026-05-06T08-51-36-835Z-nieble",
+    "oldPath": "shared-dev/feedback/new/2026-05-06T08-51-36-835Z-nieble.json",
+    "newPath": "shared-dev/feedback/fixed/2026-05-06T08-51-36-835Z-nieble.json",
+    "status": "fixed",
+    "note": "Sucker"
+  }
+}
