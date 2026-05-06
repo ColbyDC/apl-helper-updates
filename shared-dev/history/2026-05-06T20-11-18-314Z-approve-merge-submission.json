@@ -1,0 +1,29 @@
+{
+  "type": "master-change-history-entry",
+  "action": "approve-merge-submission",
+  "title": "Approved/Merged submission 2026-05-06T20-09-07-195Z-colby",
+  "summary": {
+    "submittedBy": "Colby",
+    "added": 0,
+    "duplicatesIgnored": 302,
+    "finalCount": 302
+  },
+  "details": {
+    "submissionId": "2026-05-06T20-09-07-195Z-colby",
+    "approvedPath": "shared-dev/submissions/approved/2026-05-06T20-09-07-195Z-colby.json",
+    "databasePath": "shared-dev/database.json",
+    "preMergeBackupPath": "shared-dev/backups/database-backup-2026-05-06T20-11-13-533Z.json",
+    "report": {
+      "sharedBefore": 302,
+      "incoming": 302,
+      "added": 0,
+      "duplicatesIgnored": 302,
+      "conflicts": 0,
+      "skippedNoKey": 0,
+      "conflictItems": [],
+      "finalCount": 302
+    }
+  },
+  "createdAt": "2026-05-06T20:11:18.314Z",
+  "createdBy": "Master"
+}
