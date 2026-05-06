@@ -1,0 +1,24 @@
+{
+  "feedbackId": "2026-05-06T12-50-02-987Z-nieble",
+  "status": "new",
+  "type": "Bug",
+  "channel": "Dev",
+  "appVersion": "dev-v0.5.11",
+  "submittedBy": "Nieble",
+  "submittedAt": "2026-05-06T12:50:02.987Z",
+  "itemName": "gf",
+  "message": "fgdgdfdfg",
+  "sourceApp": {
+    "channel": "Dev",
+    "version": "dev-v0.5.11",
+    "title": "Feedback Upload Hard Fix"
+  },
+  "summary": {
+    "type": "Bug",
+    "channel": "Dev",
+    "appVersion": "dev-v0.5.11",
+    "submittedBy": "Nieble",
+    "itemName": "gf",
+    "messagePreview": "fgdgdfdfg"
+  }
+}
