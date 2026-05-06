@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "dev",
+  "version": "dev-v0.5.0",
+  "title": "Dev v0.5.0 Clean Dev Roles",
+  "notes": "Starts the shared Dev + Master workflow by removing Publish/Updates from Dev and adding a Shared Dev Tools foundation page with placeholders for shared database refresh/save and Master submissions.\n\nChanges:\n- Removes Publish tab from Dev\n- Removes Updates tab from Dev\n- Adds Shared Dev Tools tab\n- Adds placeholder cards for Refresh Shared Database\n- Adds placeholder cards for Save All to Shared Database\n- Adds placeholder cards for Submit Update to Master\n- Adds placeholder cards for Conflict Review, Shared Save Report, and Dev Identity\n- Keeps all controls disabled for now so this update is safe\n- Publishing belongs in Master\n- App updating belongs in Launcher",
+  "createdAt": "2026-05-06T04:30:06.372Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "dev/latest-update.json",
+  "historyPath": "dev/updates/dev-v0.5.0.json",
+  "requiresExe": true,
+  "releaseTag": "dev-v0.5.0",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-dev-v0.5.0-clean-dev-roles\\anime-power-league-helper-dev\\dist\\Anime-Power-League-Helper-Dev-0.5.0.exe",
+    "originalName": "Anime-Power-League-Helper-Dev-0.5.0.exe",
+    "fileName": "Anime-Power-League-Helper-Dev-dev-v0.5.0.exe",
+    "size": 71355926,
+    "sizeKb": 69684,
+    "releaseTag": "dev-v0.5.0",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/dev-v0.5.0/Anime-Power-League-Helper-Dev-dev-v0.5.0.exe"
+  },
+  "messageOnly": false
+}
