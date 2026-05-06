@@ -1,0 +1,38 @@
+{
+  "type": "master-change-history-entry",
+  "action": "save-access-policies",
+  "title": "Saved Discord/device access policies",
+  "summary": {
+    "discordEnabled": false,
+    "deviceEnabled": false,
+    "maxDevicesPerAccount": 1,
+    "oneActiveSessionOnly": true
+  },
+  "details": {
+    "type": "access-policies",
+    "version": "access-policies-2026-05-06T06:46:42.844Z",
+    "updatedAt": "2026-05-06T06:46:42.844Z",
+    "updatedBy": "Master",
+    "discord": {
+      "enabled": false,
+      "requireLinkedDiscord": false,
+      "serverId": "",
+      "serverName": "",
+      "requiredRoleId": "",
+      "requiredRoleName": "",
+      "approvedLight": true,
+      "notes": ""
+    },
+    "device": {
+      "enabled": false,
+      "maxDevicesPerAccount": 1,
+      "allowDeviceResetByMaster": true,
+      "oneActiveSessionOnly": true,
+      "sessionTimeoutMinutes": 0,
+      "flagSharedLogins": true,
+      "notes": ""
+    }
+  },
+  "createdAt": "2026-05-06T06:46:43.672Z",
+  "createdBy": "Master"
+}
