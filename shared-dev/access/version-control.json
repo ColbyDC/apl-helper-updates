@@ -1,7 +1,7 @@
 {
   "type": "version-control",
-  "version": "version-control-2026-05-06T06:48:35.066Z",
-  "updatedAt": "2026-05-06T06:48:35.066Z",
+  "version": "version-control-2026-05-06T06:48:51.239Z",
+  "updatedAt": "2026-05-06T06:48:51.239Z",
   "updatedBy": "Master",
   "channels": {
     "launcher": {
@@ -13,14 +13,14 @@
     },
     "master": {
       "currentVersion": "",
-      "latestTag": "master-v0.4.0",
+      "latestTag": "",
       "forceUpdate": false,
       "disabledBelow": "",
       "notes": ""
     },
     "dev": {
       "currentVersion": "",
-      "latestTag": "dev-v0.5.6",
+      "latestTag": "",
       "forceUpdate": false,
       "disabledBelow": "",
       "notes": ""
