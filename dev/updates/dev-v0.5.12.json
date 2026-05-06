@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "dev",
+  "version": "dev-v0.5.12",
+  "title": "Dev v0.5.12 Remove Feedback System",
+  "notes": "Changes:\n- Removes Feedback / Bug Report button from the left sidebar.\n- Removes Feedback screen/page.\n- Removes feedback submit logic.\n- Removes feedback settings/token logic.\n- Removes feedback IPC handlers.\n- Leaves the rest of Dev app unchanged.",
+  "createdAt": "2026-05-06T13:05:12.392Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "dev/latest-update.json",
+  "historyPath": "dev/updates/dev-v0.5.12.json",
+  "requiresExe": true,
+  "releaseTag": "dev-v0.5.12",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-dev-v0.5.12-remove-feedback-system\\anime-power-league-helper-dev\\dist\\Anime-Power-League-Helper-Dev-0.5.12.exe",
+    "originalName": "Anime-Power-League-Helper-Dev-0.5.12.exe",
+    "fileName": "Anime-Power-League-Helper-Dev-dev-v0.5.12.exe",
+    "size": 71364984,
+    "sizeKb": 69692,
+    "releaseTag": "dev-v0.5.12",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/dev-v0.5.12/Anime-Power-League-Helper-Dev-dev-v0.5.12.exe"
+  },
+  "messageOnly": false
+}
