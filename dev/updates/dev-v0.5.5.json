@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "dev",
+  "version": "dev-v0.5.5",
+  "title": "Dev v0.5.5 Shared Database First Create Fix",
+  "notes": "Fixes Save All to Shared Database so it can create shared-dev/database.json the first time instead of failing with GitHub API 404.\n\nChanges:\n- Save All to Shared Database now creates shared-dev/database.json if it is missing.\n- Save All still updates the file normally if it already exists.\n- Refresh Shared Database gives a clearer message when the database does not exist yet.\n- Save All result now reports whether it created a new shared database.\n- Keeps the v0.5.4 item database bridge fix.",
+  "createdAt": "2026-05-06T06:17:02.522Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "dev/latest-update.json",
+  "historyPath": "dev/updates/dev-v0.5.5.json",
+  "requiresExe": true,
+  "releaseTag": "dev-v0.5.5",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-dev-v0.5.5-shared-database-first-create-fix\\anime-power-league-helper-dev\\dist\\Anime-Power-League-Helper-Dev-0.5.5.exe",
+    "originalName": "Anime-Power-League-Helper-Dev-0.5.5.exe",
+    "fileName": "Anime-Power-League-Helper-Dev-dev-v0.5.5.exe",
+    "size": 71360748,
+    "sizeKb": 69688,
+    "releaseTag": "dev-v0.5.5",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/dev-v0.5.5/Anime-Power-League-Helper-Dev-dev-v0.5.5.exe"
+  },
+  "messageOnly": false
+}
