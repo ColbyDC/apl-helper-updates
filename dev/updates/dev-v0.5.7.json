@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "dev",
+  "version": "dev-v0.5.7",
+  "title": "Dev v0.5.7 Feedback Submit Foundation",
+  "notes": "Adds the first Feedback / Bug Report page to Dev so users can submit reports to the Master review queue on GitHub.\n\nChanges:\n- Adds Feedback tab/button.\n- Adds feedback type dropdown.\n- Adds related item/page field.\n- Adds feedback message box.\n- Saves feedback name and token locally.\n- Clears saved feedback token.\n- Submits feedback reports to GitHub:\n  shared-dev/feedback/new/<feedback-id>.json\n- Creates local feedback backup in app data.\n- Feedback includes app version, channel, submitter, item/page, type, message, and summary.",
+  "createdAt": "2026-05-06T08:47:24.964Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "dev/latest-update.json",
+  "historyPath": "dev/updates/dev-v0.5.7.json",
+  "requiresExe": true,
+  "releaseTag": "dev-v0.5.7",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-dev-v0.5.7-feedback-submit-foundation\\anime-power-league-helper-dev\\dist\\Anime-Power-League-Helper-Dev-0.5.7.exe",
+    "originalName": "Anime-Power-League-Helper-Dev-0.5.7.exe",
+    "fileName": "Anime-Power-League-Helper-Dev-dev-v0.5.7.exe",
+    "size": 71363157,
+    "sizeKb": 69691,
+    "releaseTag": "dev-v0.5.7",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/dev-v0.5.7/Anime-Power-League-Helper-Dev-dev-v0.5.7.exe"
+  },
+  "messageOnly": false
+}
