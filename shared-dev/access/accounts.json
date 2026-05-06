@@ -1,19 +1,9 @@
 {
   "type": "access-accounts",
-  "version": "access-accounts-2026-05-06T08:29:02.852Z",
-  "updatedAt": "2026-05-06T08:29:02.852Z",
-  "updatedBy": "Master",
-  "count": 1,
-  "items": [
-    {
-      "id": "account-2026-05-06T08-29-02-442Z-96jg90",
-      "username": "Test",
-      "displayName": "Test1",
-      "role": "dev",
-      "status": "active",
-      "notes": "",
-      "createdAt": "2026-05-06T08:29:02.443Z",
-      "updatedAt": "2026-05-06T08:29:02.443Z"
-    }
-  ]
+  "version": "access-accounts-2026-05-06T08:33:16.165Z",
+  "updatedAt": "2026-05-06T08:33:16.167Z",
+  "updatedBy": "colbed",
+  "count": 0,
+  "items": [],
+  "accounts": []
 }
