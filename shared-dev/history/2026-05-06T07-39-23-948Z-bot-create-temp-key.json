@@ -1,0 +1,22 @@
+{
+  "type": "discord-bot-history-entry",
+  "action": "bot-create-temp-key",
+  "title": "Bot created temp key Bot",
+  "createdAt": "2026-05-06T07:39:23.948Z",
+  "createdBy": "APL Discord Manager Bot",
+  "details": {
+    "actor": "colbed",
+    "key": {
+      "id": "tempkey-1778053163087-e8jmwb",
+      "label": "Bot",
+      "key": "[hidden in history]",
+      "role": "tester",
+      "status": "active",
+      "maxUses": 1,
+      "usedCount": 0,
+      "createdAt": "2026-05-06T07:39:23.087Z",
+      "expiresAt": "2026-05-07T07:39:23.087Z",
+      "notes": "Created from Discord bot"
+    }
+  }
+}
