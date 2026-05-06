@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "master",
+  "version": "master-v0.4.6",
+  "title": "Master v0.4.6 Manual Access Cleanup Target",
+  "notes": "Adds manual account/key cleanup fields so Master can delete accounts and revoke/delete temp keys without relying on card selection.\n\nChanges:\n- Adds Account username to delete field.\n- Adds Temp key to revoke/delete field.\n- Adds Delete Account by Username button.\n- Adds Revoke Temp Key by Key button.\n- Adds Delete Temp Key by Key button.\n- Keeps existing selected-card cleanup panel.\n- Keeps history entries.\n- Keeps Discord alerts if webhook is enabled.",
+  "createdAt": "2026-05-06T08:18:59.619Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "master/latest-update.json",
+  "historyPath": "master/updates/master-v0.4.6.json",
+  "requiresExe": true,
+  "releaseTag": "master-v0.4.6",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-master-v0.4.6-manual-access-cleanup-target\\anime-power-league-helper-master\\dist\\Anime-Power-League-Helper-Master-0.4.6.exe",
+    "originalName": "Anime-Power-League-Helper-Master-0.4.6.exe",
+    "fileName": "Anime-Power-League-Helper-Master-master-v0.4.6.exe",
+    "size": 71137054,
+    "sizeKb": 69470,
+    "releaseTag": "master-v0.4.6",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/master-v0.4.6/Anime-Power-League-Helper-Master-master-v0.4.6.exe"
+  },
+  "messageOnly": false
+}
