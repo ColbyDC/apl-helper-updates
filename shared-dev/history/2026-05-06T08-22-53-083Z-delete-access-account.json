@@ -1,0 +1,24 @@
+{
+  "type": "master-change-history-entry",
+  "action": "delete-access-account",
+  "title": "Deleted access account test_dev",
+  "summary": {
+    "username": "test_dev",
+    "previousRole": "dev",
+    "previousStatus": "active"
+  },
+  "details": {
+    "deletedAccount": {
+      "id": "account-2026-05-06T06-40-30-888Z-kfl29g",
+      "username": "test_dev",
+      "displayName": "Test Dev",
+      "role": "dev",
+      "status": "active",
+      "notes": "",
+      "createdAt": "2026-05-06T06:40:30.888Z",
+      "updatedAt": "2026-05-06T06:40:30.888Z"
+    }
+  },
+  "createdAt": "2026-05-06T08:22:53.083Z",
+  "createdBy": "Master"
+}
