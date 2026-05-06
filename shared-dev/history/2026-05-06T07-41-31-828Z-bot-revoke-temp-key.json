@@ -1,0 +1,12 @@
+{
+  "type": "discord-bot-history-entry",
+  "action": "bot-revoke-temp-key",
+  "title": "Bot revoked temp key Bot",
+  "createdAt": "2026-05-06T07:41:31.828Z",
+  "createdBy": "APL Discord Manager Bot",
+  "details": {
+    "actor": "colbed",
+    "keyId": "tempkey-1778053163087-e8jmwb",
+    "reason": "test complete"
+  }
+}
