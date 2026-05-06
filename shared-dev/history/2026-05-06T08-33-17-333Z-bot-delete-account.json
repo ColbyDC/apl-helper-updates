@@ -1,0 +1,20 @@
+{
+  "type": "discord-bot-history-entry",
+  "action": "bot-delete-account",
+  "title": "Bot deleted account Test",
+  "createdAt": "2026-05-06T08:33:17.334Z",
+  "createdBy": "APL Discord Manager Bot",
+  "details": {
+    "actor": "colbed",
+    "deletedAccount": {
+      "id": "account-2026-05-06T08-29-02-442Z-96jg90",
+      "username": "Test",
+      "displayName": "Test1",
+      "role": "dev",
+      "status": "active",
+      "notes": "",
+      "createdAt": "2026-05-06T08:29:02.443Z",
+      "updatedAt": "2026-05-06T08:29:02.443Z"
+    }
+  }
+}
