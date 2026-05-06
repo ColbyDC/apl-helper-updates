@@ -1,0 +1,24 @@
+{
+  "type": "master-change-history-entry",
+  "action": "save-access-account",
+  "title": "Saved access account Test",
+  "summary": {
+    "username": "Test",
+    "role": "dev",
+    "status": "active"
+  },
+  "details": {
+    "account": {
+      "id": "account-2026-05-06T08-29-02-442Z-96jg90",
+      "username": "Test",
+      "displayName": "Test1",
+      "role": "dev",
+      "status": "active",
+      "notes": "",
+      "createdAt": "2026-05-06T08:29:02.443Z",
+      "updatedAt": "2026-05-06T08:29:02.443Z"
+    }
+  },
+  "createdAt": "2026-05-06T08:29:03.738Z",
+  "createdBy": "Master"
+}
