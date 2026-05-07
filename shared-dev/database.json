@@ -1,19 +1,11 @@
 {
-  "version": "shared-master-merge-2026-05-07T14:57:14.979Z",
-  "updatedAt": "2026-05-07T14:57:14.979Z",
-  "updatedBy": "Master",
-  "previousVersion": null,
+  "schema": "apl-helper-shared-database-v1",
+  "updatedAt": "2026-05-07T14:57:19.651Z",
+  "source": "master-approved-full-submission",
+  "sourceSubmissionId": "2026-05-07T14-55-42-859Z-colby",
+  "sourceSubmissionPath": "",
+  "sourceSubmissionSha": "",
   "itemCount": 302,
-  "lastMergeReport": {
-    "sharedBefore": 302,
-    "incoming": 302,
-    "added": 0,
-    "duplicatesIgnored": 302,
-    "conflicts": 0,
-    "skippedNoKey": 0,
-    "conflictItems": [],
-    "finalCount": 302
-  },
   "items": [
     {
       "id": "item-mos8uucl-o3ncob",
