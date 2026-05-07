@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "tester",
+  "version": "tester-v0.4.11",
+  "title": "Tester v0.4.11 Full Calculator List + Data Update Help Fix",
+  "notes": "Changes:\n- Adds the 4th calculator to the Calculators tab:\n  Drop / NPC Kills Calculator\n- The calculator estimates:\n  average kills, average time, 50% chance estimate, and 90% chance estimate.\n- Fixes Help > Check Tester Data Update by pointing it to:\n  tester/latest-data-update.json\n  instead of the old tester/latest-update.json.\n- Updates Tester current app version to 0.4.11 for app update checks.\n- Keeps the approved-data auto-load behavior from v0.4.10.\n\nPublish as full Tester app update:",
+  "createdAt": "2026-05-07T23:07:47.504Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "tester/latest-update.json",
+  "historyPath": "tester/updates/tester-v0.4.11.json",
+  "requiresExe": true,
+  "releaseTag": "tester-v0.4.11",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-tester-v0.4.11-full-calculator-list\\anime-power-league-helper-tester\\dist\\Anime-Power-League-Helper-Tester-tester-v0.4.10.exe",
+    "originalName": "Anime-Power-League-Helper-Tester-tester-v0.4.10.exe",
+    "fileName": "Anime-Power-League-Helper-Tester-tester-v0.4.11.exe",
+    "size": 71117432,
+    "sizeKb": 69451,
+    "releaseTag": "tester-v0.4.11",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/tester-v0.4.11/Anime-Power-League-Helper-Tester-tester-v0.4.11.exe"
+  },
+  "messageOnly": false
+}
