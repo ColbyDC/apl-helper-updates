@@ -1,0 +1,46 @@
+{
+  "type": "master-change-history-entry",
+  "action": "auto-publish-tester-small-update",
+  "title": "Auto-published Tester small update tester-data-2026-05-07T14-57-28-036Z",
+  "summary": {
+    "version": "tester-data-2026-05-07T14-57-28-036Z",
+    "releaseTag": "tester-data-2026-05-07T14-57-28-036Z",
+    "sharedPath": "C:\\Users\\Owner\\AppData\\Roaming\\Anime Power League Helper Master\\shared-database-latest-approved.json",
+    "sharedSha": "",
+    "itemCount": 302,
+    "appReplacement": false,
+    "keepsTesterUpdateTab": true
+  },
+  "details": {
+    "updatePath": "tester/updates/tester-data-2026-05-07T14-57-28-036Z.json",
+    "latestPath": "tester/latest-update.json",
+    "localPath": "C:\\Users\\Owner\\AppData\\Roaming\\Anime Power League Helper Master\\tester-small-updates\\tester-data-2026-05-07T14-57-28-036Z.json",
+    "updatePayload": {
+      "schema": "apl-helper-tester-small-update-v1",
+      "channel": "tester",
+      "updateKind": "small-data-update",
+      "version": "tester-data-2026-05-07T14-57-28-036Z",
+      "releaseTag": "tester-data-2026-05-07T14-57-28-036Z",
+      "title": "Tester Data Update 5/7/2026, 9:57:28 AM",
+      "notes": "Tester shared database update.\\nThis update was prepared after approving/merging a Dev submission in Master.\\nShared database source: last-approved-handoff\\nShared database: C:\\Users\\Owner\\AppData\\Roaming\\Anime Power League Helper Master\\shared-database-latest-approved.json\\nShared database SHA: N/A\\nShared database size: 179768 bytes\\nItem count: 302\\nSample items: Elite Generator, Old Generator, Broken Generator, Basic Generator, Deluxe Generator, Immortal Energy 1, Immortal Energy 2, Essence Stone, Dragon Stone, Purple Mist, Space Kit, Demon Soul\\nDatabase updated/version: 2026-05-07T14:57:19.048Z\\nSmall update only. Tester launcher/app should refresh approved shared data without replacing the Tester app or losing the Update tab.",
+      "createdAt": "2026-05-07T14:57:32.842Z",
+      "keepsTesterUpdateTab": true,
+      "appReplacement": false,
+      "requiresExe": false,
+      "sharedDatabase": {
+        "path": "C:\\Users\\Owner\\AppData\\Roaming\\Anime Power League Helper Master\\shared-database-latest-approved.json",
+        "sha": "",
+        "size": 179768,
+        "itemCount": 302,
+        "updatedAt": "2026-05-07T14:57:19.048Z"
+      },
+      "instructions": {
+        "launcherAction": "refresh-shared-data",
+        "testerShouldKeepCurrentApp": true,
+        "message": "Small update only. Refresh approved shared data without replacing the Tester app."
+      }
+    }
+  },
+  "createdAt": "2026-05-07T14:57:35.682Z",
+  "createdBy": "Master"
+}
