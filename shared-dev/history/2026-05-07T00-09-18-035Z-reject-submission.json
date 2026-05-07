@@ -1,0 +1,16 @@
+{
+  "type": "master-change-history-entry",
+  "action": "reject-submission",
+  "title": "Rejected submission 2026-05-06T23-40-10-372Z-colby",
+  "summary": {
+    "submittedBy": "Colby",
+    "reason": "Rejected by Master."
+  },
+  "details": {
+    "submissionId": "2026-05-06T23-40-10-372Z-colby",
+    "rejectedPath": "shared-dev/submissions/rejected/2026-05-06T23-40-10-372Z-colby.json",
+    "reason": "Rejected by Master."
+  },
+  "createdAt": "2026-05-07T00:09:18.035Z",
+  "createdBy": "Master"
+}
