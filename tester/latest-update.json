@@ -1,24 +1,25 @@
 {
-  "type": "exe-update",
-  "updateType": "exe",
+  "schema": "apl-helper-tester-small-update-v1",
   "channel": "tester",
-  "version": "tester-v0.4.8.2",
-  "title": "Tester v0.4.8.2 Gear Display + Item Labels",
-  "notes": "Improves Best Gear display, Buy Next recommendations, All Power scoring, and item/stat labels.\n\nChanges:\n- Improved Best Gear selected filter display\n- Improved Buy Next upgrade recommendations\n- Improved All Power gear scoring\n- Changed Factory Island to Industrial Island\n- Changed Forge Luck to Quality\n- Added Jungle location",
-  "createdAt": "2026-05-06T03:36:24.602Z",
-  "repo": "ColbyDC/apl-helper-updates",
-  "latestPath": "tester/latest-update.json",
-  "historyPath": "tester/updates/tester-v0.4.8.2.json",
-  "requiresExe": true,
-  "releaseTag": "tester-v0.4.8.2",
-  "exe": {
-    "originalPath": "C:\\Users\\Owner\\OneDrive\\Documents\\Anime Power League Helper\\Apps\\Tester\\Anime Power League Helper Tester.exe",
-    "originalName": "Anime Power League Helper Tester.exe",
-    "fileName": "Anime-Power-League-Helper-Tester-tester-v0.4.8.2.exe",
-    "size": 71124510,
-    "sizeKb": 69458,
-    "releaseTag": "tester-v0.4.8.2",
-    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/tester-v0.4.8.2/Anime-Power-League-Helper-Tester-tester-v0.4.8.2.exe"
+  "updateKind": "small-data-update",
+  "version": "tester-data-2026-05-07T01-39-57-588Z",
+  "releaseTag": "tester-data-2026-05-07T01-39-57-588Z",
+  "title": "Tester Data Update 5/6/2026, 8:39:57 PM",
+  "notes": "Tester shared database update.\\nThis update was prepared after approving/merging a Dev submission in Master.\\nShared database source: last-approved-handoff\\nShared database: C:\\Users\\Owner\\AppData\\Roaming\\Anime Power League Helper Master\\shared-database-latest-approved.json\\nShared database SHA: N/A\\nShared database size: 179768 bytes\\nItem count: 302\\nSample items: Elite Generator, Old Generator, Broken Generator, Basic Generator, Deluxe Generator, Immortal Energy 1, Immortal Energy 2, Essence Stone, Dragon Stone, Purple Mist, Space Kit, Demon Soul\\nDatabase updated/version: 2026-05-07T01:39:43.451Z\\nSmall update only. Tester launcher/app should refresh approved shared data without replacing the Tester app or losing the Update tab.",
+  "createdAt": "2026-05-07T01:40:35.692Z",
+  "keepsTesterUpdateTab": true,
+  "appReplacement": false,
+  "requiresExe": false,
+  "sharedDatabase": {
+    "path": "C:\\Users\\Owner\\AppData\\Roaming\\Anime Power League Helper Master\\shared-database-latest-approved.json",
+    "sha": "",
+    "size": 179768,
+    "itemCount": 302,
+    "updatedAt": "2026-05-07T01:39:43.451Z"
   },
-  "messageOnly": false
+  "instructions": {
+    "launcherAction": "refresh-shared-data",
+    "testerShouldKeepCurrentApp": true,
+    "message": "Small update only. Refresh approved shared data without replacing the Tester app."
+  }
 }
