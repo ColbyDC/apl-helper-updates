@@ -1,25 +1,24 @@
 {
-  "schema": "apl-helper-tester-small-update-v1",
+  "type": "exe-update",
+  "updateType": "exe",
   "channel": "tester",
-  "updateKind": "small-data-update",
-  "version": "tester-data-2026-05-07T14-57-28-036Z",
-  "releaseTag": "tester-data-2026-05-07T14-57-28-036Z",
-  "title": "Tester Data Update 5/7/2026, 9:57:28 AM",
-  "notes": "Tester shared database update.\\nThis update was prepared after approving/merging a Dev submission in Master.\\nShared database source: last-approved-handoff\\nShared database: C:\\Users\\Owner\\AppData\\Roaming\\Anime Power League Helper Master\\shared-database-latest-approved.json\\nShared database SHA: N/A\\nShared database size: 179768 bytes\\nItem count: 302\\nSample items: Elite Generator, Old Generator, Broken Generator, Basic Generator, Deluxe Generator, Immortal Energy 1, Immortal Energy 2, Essence Stone, Dragon Stone, Purple Mist, Space Kit, Demon Soul\\nDatabase updated/version: 2026-05-07T14:57:19.048Z\\nSmall update only. Tester launcher/app should refresh approved shared data without replacing the Tester app or losing the Update tab.",
-  "createdAt": "2026-05-07T14:57:32.842Z",
-  "keepsTesterUpdateTab": true,
-  "appReplacement": false,
-  "requiresExe": false,
-  "sharedDatabase": {
-    "path": "C:\\Users\\Owner\\AppData\\Roaming\\Anime Power League Helper Master\\shared-database-latest-approved.json",
-    "sha": "",
-    "size": 179768,
-    "itemCount": 302,
-    "updatedAt": "2026-05-07T14:57:19.048Z"
+  "version": "tester-v0.4.10",
+  "title": "Tester v0.4.10 Approved Data Import Fix",
+  "notes": "Changes:\n- Tester now accepts the Launcher approved data shape saved at:\n  Documents/Anime Power League Helper/Approved Data/Tester/approved-data.json\n- Tester now searches inside approved-data.json for the real items array instead of requiring only one exact JSON shape.\n- Supports items nested inside sharedDatabase, data, database, payload, snapshot, and other wrapper objects.\n- Keeps the cleaner Tester UI from v0.4.9.\n- Updates version to tester-v0.4.10.\n\nAfter installing:\n1. Open Tester v0.4.10.\n2. Use File > Import Approved Data From Launcher.\n3. Expected: Tester loads 302 database items.\n4. Help > Check Tester Data Update should confirm the approved data file instead of throwing the old error.",
+  "createdAt": "2026-05-07T17:01:18.712Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "tester/latest-update.json",
+  "historyPath": "tester/updates/tester-v0.4.10.json",
+  "requiresExe": true,
+  "releaseTag": "tester-v0.4.10",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-tester-v0.4.10-approved-data-import-fix\\anime-power-league-helper-tester\\dist\\Anime-Power-League-Helper-Tester-tester-v0.4.10.exe",
+    "originalName": "Anime-Power-League-Helper-Tester-tester-v0.4.10.exe",
+    "fileName": "Anime-Power-League-Helper-Tester-tester-v0.4.10.exe",
+    "size": 71118759,
+    "sizeKb": 69452,
+    "releaseTag": "tester-v0.4.10",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/tester-v0.4.10/Anime-Power-League-Helper-Tester-tester-v0.4.10.exe"
   },
-  "instructions": {
-    "launcherAction": "refresh-shared-data",
-    "testerShouldKeepCurrentApp": true,
-    "message": "Small update only. Refresh approved shared data without replacing the Tester app."
-  }
+  "messageOnly": false
 }
