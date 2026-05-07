@@ -1,8 +1,19 @@
 {
-  "version": "shared-dev-2026-05-06T23:40:19.110Z",
-  "updatedAt": "2026-05-06T23:40:19.110Z",
-  "updatedBy": "Colby",
+  "version": "shared-master-merge-2026-05-07T00:09:28.111Z",
+  "updatedAt": "2026-05-07T00:09:28.111Z",
+  "updatedBy": "Master",
+  "previousVersion": "shared-dev-2026-05-06T23:40:19.110Z",
   "itemCount": 302,
+  "lastMergeReport": {
+    "sharedBefore": 302,
+    "incoming": 302,
+    "added": 0,
+    "duplicatesIgnored": 302,
+    "conflicts": 0,
+    "skippedNoKey": 0,
+    "conflictItems": [],
+    "finalCount": 302
+  },
   "items": [
     {
       "id": "item-mos8uucl-o3ncob",
@@ -9666,20 +9677,5 @@
       "updatedAt": "2026-05-05T20:50:51.164Z",
       "createdAt": "2026-05-05T20:50:51.164Z"
     }
-  ],
-  "previousVersion": "shared-dev-2026-05-06T23:01:11.993Z",
-  "createdNewDatabase": false,
-  "lastSaveReport": {
-    "savedAt": "2026-05-06T23:40:19.111Z",
-    "savedBy": "Colby",
-    "localSource": "renderer-live-items",
-    "localCount": 302,
-    "sharedBeforeCount": 302,
-    "finalCount": 302,
-    "added": 0,
-    "duplicatesIgnored": 302,
-    "conflicts": 0,
-    "conflictItemsSkipped": [],
-    "createdNewDatabase": false
-  }
+  ]
 }
