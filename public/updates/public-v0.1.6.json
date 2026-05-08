@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "public",
+  "version": "public-v0.1.6",
+  "title": "Public v0.1.6 UI Cleanup + Item Lookup",
+  "notes": "Changes:\n- Removes visible Player Boosts tab.\n- Removes visible My Items / Totals right panel.\n- Adds Item Lookup tab.\n- Keeps hidden data hooks so old totals/boost code does not crash.\n\nPublish:",
+  "createdAt": "2026-05-08T08:17:52.220Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "public/latest-update.json",
+  "historyPath": "public/updates/public-v0.1.6.json",
+  "requiresExe": true,
+  "releaseTag": "public-v0.1.6",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-public-v0.1.6-ui-cleanup-item-lookup\\anime-power-league-helper-public\\dist\\Anime Power League Helper Public-Setup-0.1.6.exe",
+    "originalName": "Anime Power League Helper Public-Setup-0.1.6.exe",
+    "fileName": "Anime-Power-League-Helper-Public-public-v0.1.6.exe",
+    "size": 71120967,
+    "sizeKb": 69454,
+    "releaseTag": "public-v0.1.6",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/public-v0.1.6/Anime-Power-League-Helper-Public-public-v0.1.6.exe"
+  },
+  "messageOnly": false
+}
