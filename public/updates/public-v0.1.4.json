@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "public",
+  "version": "public-v0.1.4",
+  "title": "Public v0.1.4 Calculator Examples",
+  "notes": "Changes:\n- Adds visible example/help text to all 5 calculator cards.\n- Keeps:\n  1. Token / Income Calculator\n  2. Stat Gains Calculator\n  3. Goal Time Calculator\n  4. Boost Goal Calculator\n  5. NPC Kills Calculator\n- Keeps NPC seconds-per-kill explanation.\n\nPublish:",
+  "createdAt": "2026-05-08T03:19:11.621Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "public/latest-update.json",
+  "historyPath": "public/updates/public-v0.1.4.json",
+  "requiresExe": true,
+  "releaseTag": "public-v0.1.4",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-public-v0.1.4-calculator-examples\\anime-power-league-helper-public\\dist\\Anime Power League Helper Public-Setup-0.1.4.exe",
+    "originalName": "Anime Power League Helper Public-Setup-0.1.4.exe",
+    "fileName": "Anime-Power-League-Helper-Public-public-v0.1.4.exe",
+    "size": 71124141,
+    "sizeKb": 69457,
+    "releaseTag": "public-v0.1.4",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/public-v0.1.4/Anime-Power-League-Helper-Public-public-v0.1.4.exe"
+  },
+  "messageOnly": false
+}
