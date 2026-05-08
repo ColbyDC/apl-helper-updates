@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "tester",
+  "version": "tester-v0.4.17",
+  "title": "Tester v0.4.17 UI Cleanup + Item Lookup",
+  "notes": "Changes:\n- Removes visible Player Boosts tab.\n- Removes visible My Items / Totals right panel.\n- Adds Item Lookup tab.\n- Keeps hidden data hooks so old totals/boost code does not crash.\n\nPublish:",
+  "createdAt": "2026-05-08T08:26:11.178Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "tester/latest-update.json",
+  "historyPath": "tester/updates/tester-v0.4.17.json",
+  "requiresExe": true,
+  "releaseTag": "tester-v0.4.17",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-tester-v0.4.17-ui-cleanup-item-lookup\\anime-power-league-helper-tester\\dist\\Anime-Power-League-Helper-Tester-tester-v0.4.10.exe",
+    "originalName": "Anime-Power-League-Helper-Tester-tester-v0.4.10.exe",
+    "fileName": "Anime-Power-League-Helper-Tester-tester-v0.4.17.exe",
+    "size": 71120434,
+    "sizeKb": 69454,
+    "releaseTag": "tester-v0.4.17",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/tester-v0.4.17/Anime-Power-League-Helper-Tester-tester-v0.4.17.exe"
+  },
+  "messageOnly": false
+}
