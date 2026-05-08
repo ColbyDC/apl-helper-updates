@@ -1,0 +1,30 @@
+{
+  "type": "master-change-history-entry",
+  "action": "delete-temp-key",
+  "title": "Deleted temp key Test2",
+  "summary": {
+    "label": "Test2",
+    "role": "dev",
+    "previousStatus": "revoked"
+  },
+  "details": {
+    "deletedTempKey": {
+      "id": "tempkey-2026-05-08T22-57-19-532Z-5jwq8t",
+      "label": "Test2",
+      "key": "[hidden]",
+      "role": "dev",
+      "status": "revoked",
+      "maxUses": 1,
+      "usedCount": 0,
+      "createdAt": "2026-05-08T22:57:19.532Z",
+      "expiresAt": "2026-05-09T22:57:19.532Z",
+      "notes": "",
+      "revokedAt": "2026-05-08T23:09:40.886Z",
+      "revokedBy": "Master",
+      "revokeReason": "Manual cleanup from Master.",
+      "updatedAt": "2026-05-08T23:09:40.886Z"
+    }
+  },
+  "createdAt": "2026-05-08T23:19:34.848Z",
+  "createdBy": "Master"
+}
