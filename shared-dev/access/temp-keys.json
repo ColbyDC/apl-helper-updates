@@ -1,22 +1,10 @@
 {
   "type": "temp-access-keys",
-  "version": "temp-access-keys-2026-05-08T23:09:40.886Z",
-  "updatedAt": "2026-05-08T23:09:40.886Z",
+  "version": "temp-access-keys-2026-05-08T23:10:07.426Z",
+  "updatedAt": "2026-05-08T23:10:07.426Z",
   "updatedBy": "Master",
-  "count": 2,
+  "count": 1,
   "items": [
-    {
-      "id": "tempkey-2026-05-08T22-46-24-749Z-xmd4do",
-      "label": "Test",
-      "key": "X2JA2ETB-2NXNUK2R",
-      "role": "public",
-      "status": "active",
-      "maxUses": 1,
-      "usedCount": 0,
-      "createdAt": "2026-05-08T22:46:24.749Z",
-      "expiresAt": "2026-05-09T22:46:24.749Z",
-      "notes": "Test"
-    },
     {
       "id": "tempkey-2026-05-08T22-57-19-532Z-5jwq8t",
       "label": "Test2",
