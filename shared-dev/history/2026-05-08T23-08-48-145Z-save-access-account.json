@@ -1,0 +1,25 @@
+{
+  "type": "master-change-history-entry",
+  "action": "save-access-account",
+  "title": "Saved access account Test",
+  "summary": {
+    "username": "Test",
+    "role": "public",
+    "status": "disabled"
+  },
+  "details": {
+    "account": {
+      "id": "account-2026-05-08T23-08-33-357Z-8fpo7z",
+      "username": "Test",
+      "displayName": "test",
+      "role": "public",
+      "status": "disabled",
+      "password": "APL-TH2SHO-41ZNSH",
+      "notes": "",
+      "createdAt": "2026-05-08T23:08:47.036Z",
+      "updatedAt": "2026-05-08T23:08:47.036Z"
+    }
+  },
+  "createdAt": "2026-05-08T23:08:48.145Z",
+  "createdBy": "Master"
+}
