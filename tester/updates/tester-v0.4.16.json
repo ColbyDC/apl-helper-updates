@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "tester",
+  "version": "tester-v0.4.16",
+  "title": "Tester v0.4.16 Calculator Box Examples",
+  "notes": "Changes:\n- Puts example values directly inside the calculator input boxes.\n- Keeps visible calculator example/help text.\n- Keeps all 5 calculators.\n\nPublish:",
+  "createdAt": "2026-05-08T04:58:03.443Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "tester/latest-update.json",
+  "historyPath": "tester/updates/tester-v0.4.16.json",
+  "requiresExe": true,
+  "releaseTag": "tester-v0.4.16",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-tester-v0.4.16-calculator-box-examples\\anime-power-league-helper-tester\\dist\\Anime-Power-League-Helper-Tester-tester-v0.4.10.exe",
+    "originalName": "Anime-Power-League-Helper-Tester-tester-v0.4.10.exe",
+    "fileName": "Anime-Power-League-Helper-Tester-tester-v0.4.16.exe",
+    "size": 71119702,
+    "sizeKb": 69453,
+    "releaseTag": "tester-v0.4.16",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/tester-v0.4.16/Anime-Power-League-Helper-Tester-tester-v0.4.16.exe"
+  },
+  "messageOnly": false
+}
