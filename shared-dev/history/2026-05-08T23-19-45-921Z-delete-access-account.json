@@ -1,0 +1,25 @@
+{
+  "type": "master-change-history-entry",
+  "action": "delete-access-account",
+  "title": "Deleted access account Test2",
+  "summary": {
+    "username": "Test2",
+    "previousRole": "public",
+    "previousStatus": "banned"
+  },
+  "details": {
+    "deletedAccount": {
+      "id": "account-2026-05-08T23-09-11-724Z-1920m3",
+      "username": "Test2",
+      "displayName": "test2",
+      "role": "public",
+      "status": "banned",
+      "password": "APL-W8Q698-2DAR2X",
+      "notes": "",
+      "createdAt": "2026-05-08T23:09:11.724Z",
+      "updatedAt": "2026-05-08T23:09:11.724Z"
+    }
+  },
+  "createdAt": "2026-05-08T23:19:45.921Z",
+  "createdBy": "Master"
+}
