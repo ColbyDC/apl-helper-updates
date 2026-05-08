@@ -1,9 +1,9 @@
 {
   "type": "access-accounts",
-  "version": "access-accounts-2026-05-08T23:09:12.065Z",
-  "updatedAt": "2026-05-08T23:09:12.065Z",
+  "version": "access-accounts-2026-05-08T23:19:44.700Z",
+  "updatedAt": "2026-05-08T23:19:44.700Z",
   "updatedBy": "Master",
-  "count": 2,
+  "count": 1,
   "items": [
     {
       "id": "account-2026-05-08T23-08-33-357Z-8fpo7z",
@@ -15,17 +15,6 @@
       "notes": "",
       "createdAt": "2026-05-08T23:08:33.359Z",
       "updatedAt": "2026-05-08T23:08:59.043Z"
-    },
-    {
-      "id": "account-2026-05-08T23-09-11-724Z-1920m3",
-      "username": "Test2",
-      "displayName": "test2",
-      "role": "public",
-      "status": "banned",
-      "password": "APL-W8Q698-2DAR2X",
-      "notes": "",
-      "createdAt": "2026-05-08T23:09:11.724Z",
-      "updatedAt": "2026-05-08T23:09:11.724Z"
     }
   ]
 }
