@@ -5,7 +5,7 @@
   "version": "dev-v0.5.21",
   "title": "Dev v0.5.21 My Items Panel Cleanup",
   "notes": "Changes:\n- Removes the visible Player Items / Totals right-side panel from Dev's My Items tab.\n- Keeps hidden playerTotals and ownedList hooks so older renderer code does not crash.\n- Keeps Item Lookup.\n- Keeps Player Boosts removed from the visible tab bar.\n\nReason:\nThe real game has upgrades that change how totals work, so showing fake/estimated totals can be misleading.\n\nPublish:",
-  "createdAt": "2026-05-08T08:20:56.323Z",
+  "createdAt": "2026-05-08T08:23:37.587Z",
   "repo": "ColbyDC/apl-helper-updates",
   "latestPath": "dev/latest-update.json",
   "historyPath": "dev/updates/dev-v0.5.21.json",
@@ -15,7 +15,7 @@
     "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-dev-v0.5.21-my-items-panel-cleanup\\anime-power-league-helper-dev\\dist\\Anime-Power-League-Helper-Dev-0.5.21.exe",
     "originalName": "Anime-Power-League-Helper-Dev-0.5.21.exe",
     "fileName": "Anime-Power-League-Helper-Dev-dev-v0.5.21.exe",
-    "size": 71366758,
+    "size": 71366760,
     "sizeKb": 69694,
     "releaseTag": "dev-v0.5.21",
     "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/dev-v0.5.21/Anime-Power-League-Helper-Dev-dev-v0.5.21.exe"
