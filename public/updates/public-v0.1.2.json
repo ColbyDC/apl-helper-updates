@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "public",
+  "version": "public-v0.1.2",
+  "title": "Public v0.1.2 Five Calculators",
+  "notes": "Changes:\n- Adds Boost Goal Calculator, bringing the calculator tab to 5 calculators.\n- Keeps NPC Kills Calculator.\n- NPC Kills Calculator now explains how to get seconds per kill:\n  time 10 kills, then divide the total seconds by 10.\n\nCalculators:\n1. Token / Income Calculator\n2. Stat Gains Calculator\n3. Goal Time Calculator\n4. Boost Goal Calculator\n5. NPC Kills Calculator\n\nPublish:",
+  "createdAt": "2026-05-08T00:07:45.675Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "public/latest-update.json",
+  "historyPath": "public/updates/public-v0.1.2.json",
+  "requiresExe": true,
+  "releaseTag": "public-v0.1.2",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-public-v0.1.2-five-calculators\\anime-power-league-helper-public\\dist\\Anime Power League Helper Public-Setup-0.1.2.exe",
+    "originalName": "Anime Power League Helper Public-Setup-0.1.2.exe",
+    "fileName": "Anime-Power-League-Helper-Public-public-v0.1.2.exe",
+    "size": 71122234,
+    "sizeKb": 69455,
+    "releaseTag": "public-v0.1.2",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/public-v0.1.2/Anime-Power-League-Helper-Public-public-v0.1.2.exe"
+  },
+  "messageOnly": false
+}
