@@ -1,0 +1,25 @@
+{
+  "type": "master-change-history-entry",
+  "action": "delete-access-account",
+  "title": "Deleted access account Test",
+  "summary": {
+    "username": "Test",
+    "previousRole": "public",
+    "previousStatus": "active"
+  },
+  "details": {
+    "deletedAccount": {
+      "id": "account-2026-05-08T23-08-33-357Z-8fpo7z",
+      "username": "Test",
+      "displayName": "test",
+      "role": "public",
+      "status": "active",
+      "password": "APL-TH2SHO-41ZNSH",
+      "notes": "",
+      "createdAt": "2026-05-08T23:08:33.359Z",
+      "updatedAt": "2026-05-08T23:08:59.043Z"
+    }
+  },
+  "createdAt": "2026-05-08T23:19:50.265Z",
+  "createdBy": "Master"
+}
