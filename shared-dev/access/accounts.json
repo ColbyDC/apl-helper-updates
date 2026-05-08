@@ -1,20 +1,8 @@
 {
   "type": "access-accounts",
-  "version": "access-accounts-2026-05-08T23:19:44.700Z",
-  "updatedAt": "2026-05-08T23:19:44.700Z",
+  "version": "access-accounts-2026-05-08T23:19:49.567Z",
+  "updatedAt": "2026-05-08T23:19:49.567Z",
   "updatedBy": "Master",
-  "count": 1,
-  "items": [
-    {
-      "id": "account-2026-05-08T23-08-33-357Z-8fpo7z",
-      "username": "Test",
-      "displayName": "test",
-      "role": "public",
-      "status": "active",
-      "password": "APL-TH2SHO-41ZNSH",
-      "notes": "",
-      "createdAt": "2026-05-08T23:08:33.359Z",
-      "updatedAt": "2026-05-08T23:08:59.043Z"
-    }
-  ]
+  "count": 0,
+  "items": []
 }
