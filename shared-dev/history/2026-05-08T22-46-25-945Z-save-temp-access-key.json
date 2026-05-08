@@ -1,0 +1,26 @@
+{
+  "type": "master-change-history-entry",
+  "action": "save-temp-access-key",
+  "title": "Saved temp access key Test",
+  "summary": {
+    "label": "Test",
+    "role": "public",
+    "expiresAt": "2026-05-09T22:46:24.749Z"
+  },
+  "details": {
+    "tempKey": {
+      "id": "tempkey-2026-05-08T22-46-24-749Z-xmd4do",
+      "label": "Test",
+      "key": "X2JA2ETB-2NXNUK2R",
+      "role": "public",
+      "status": "active",
+      "maxUses": 1,
+      "usedCount": 0,
+      "createdAt": "2026-05-08T22:46:24.749Z",
+      "expiresAt": "2026-05-09T22:46:24.749Z",
+      "notes": "Test"
+    }
+  },
+  "createdAt": "2026-05-08T22:46:25.945Z",
+  "createdBy": "Master"
+}
