@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "tester",
+  "version": "tester-v0.4.14",
+  "title": "Tester v0.4.14 Startup Fix + Five Calculators",
+  "notes": "Built Tester v0.4.14.",
+  "createdAt": "2026-05-08T01:03:15.819Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "tester/latest-update.json",
+  "historyPath": "tester/updates/tester-v0.4.14.json",
+  "requiresExe": true,
+  "releaseTag": "tester-v0.4.14",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-tester-v0.4.14-startup-fix-five-calculators\\anime-power-league-helper-tester\\dist\\Anime-Power-League-Helper-Tester-tester-v0.4.10.exe",
+    "originalName": "Anime-Power-League-Helper-Tester-tester-v0.4.10.exe",
+    "fileName": "Anime-Power-League-Helper-Tester-tester-v0.4.14.exe",
+    "size": 71122177,
+    "sizeKb": 69455,
+    "releaseTag": "tester-v0.4.14",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/tester-v0.4.14/Anime-Power-League-Helper-Tester-tester-v0.4.14.exe"
+  },
+  "messageOnly": false
+}
