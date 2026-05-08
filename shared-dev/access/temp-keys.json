@@ -1,9 +1,9 @@
 {
   "type": "temp-access-keys",
-  "version": "temp-access-keys-2026-05-08T22:46:25.091Z",
-  "updatedAt": "2026-05-08T22:46:25.091Z",
+  "version": "temp-access-keys-2026-05-08T22:57:19.842Z",
+  "updatedAt": "2026-05-08T22:57:19.842Z",
   "updatedBy": "Master",
-  "count": 1,
+  "count": 2,
   "items": [
     {
       "id": "tempkey-2026-05-08T22-46-24-749Z-xmd4do",
@@ -16,6 +16,18 @@
       "createdAt": "2026-05-08T22:46:24.749Z",
       "expiresAt": "2026-05-09T22:46:24.749Z",
       "notes": "Test"
+    },
+    {
+      "id": "tempkey-2026-05-08T22-57-19-532Z-5jwq8t",
+      "label": "Test2",
+      "key": "IM3349CX-P63DH61N",
+      "role": "dev",
+      "status": "active",
+      "maxUses": 1,
+      "usedCount": 0,
+      "createdAt": "2026-05-08T22:57:19.532Z",
+      "expiresAt": "2026-05-09T22:57:19.532Z",
+      "notes": ""
     }
   ]
 }
