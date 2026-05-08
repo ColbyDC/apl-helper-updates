@@ -1,7 +1,7 @@
 {
   "type": "temp-access-keys",
-  "version": "temp-access-keys-2026-05-08T22:57:19.842Z",
-  "updatedAt": "2026-05-08T22:57:19.842Z",
+  "version": "temp-access-keys-2026-05-08T23:09:40.886Z",
+  "updatedAt": "2026-05-08T23:09:40.886Z",
   "updatedBy": "Master",
   "count": 2,
   "items": [
@@ -22,12 +22,16 @@
       "label": "Test2",
       "key": "IM3349CX-P63DH61N",
       "role": "dev",
-      "status": "active",
+      "status": "revoked",
       "maxUses": 1,
       "usedCount": 0,
       "createdAt": "2026-05-08T22:57:19.532Z",
       "expiresAt": "2026-05-09T22:57:19.532Z",
-      "notes": ""
+      "notes": "",
+      "revokedAt": "2026-05-08T23:09:40.886Z",
+      "revokedBy": "Master",
+      "revokeReason": "Manual cleanup from Master.",
+      "updatedAt": "2026-05-08T23:09:40.886Z"
     }
   ]
 }
