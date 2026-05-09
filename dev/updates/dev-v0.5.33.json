@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "dev",
+  "version": "dev-v0.5.33",
+  "title": "Dev v0.5.33 Final Polish",
+  "notes": "Built Dev v0.5.33.",
+  "createdAt": "2026-05-09T08:03:59.744Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "dev/latest-update.json",
+  "historyPath": "dev/updates/dev-v0.5.33.json",
+  "requiresExe": true,
+  "releaseTag": "dev-v0.5.28",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-dev-v0.5.33-final-polish\\anime-power-league-helper-dev-v0.5.33-final-polish\\anime-power-league-helper-dev\\dist\\Anime-Power-League-Helper-Dev-0.5.33.exe",
+    "originalName": "Anime-Power-League-Helper-Dev-0.5.33.exe",
+    "fileName": "Anime-Power-League-Helper-Dev-dev-v0.5.33.exe",
+    "size": 71377578,
+    "sizeKb": 69705,
+    "releaseTag": "dev-v0.5.28",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/dev-v0.5.28/Anime-Power-League-Helper-Dev-dev-v0.5.33.exe"
+  },
+  "messageOnly": false
+}
