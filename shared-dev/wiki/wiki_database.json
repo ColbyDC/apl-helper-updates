@@ -1,0 +1,444 @@
+{
+  "type": "apl-helper-wiki-database",
+  "schemaVersion": 1,
+  "gameName": "Anime Power League",
+  "wikiName": "Anime Power League",
+  "homepageUrl": "https://anime-power-league.fandom.com/wiki/Anime_Power_League_Wiki",
+  "domain": "anime-power-league.fandom.com",
+  "importedAt": "2026-05-09T09:41:55.805Z",
+  "pageCount": 42,
+  "categoryCounts": {
+    "APL Guides": 2,
+    "Pages with broken file links": 2
+  },
+  "pages": [
+    {
+      "pageId": 181,
+      "title": "Abilities",
+      "url": "https://anime-power-league.fandom.com/wiki/Abilities",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 1,
+      "title": "Anime Power League Wiki",
+      "url": "https://anime-power-league.fandom.com/wiki/Anime_Power_League_Wiki",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 179,
+      "title": "Aura Areas",
+      "url": "https://anime-power-league.fandom.com/wiki/Aura_Areas",
+      "categories": [],
+      "type": "Abilities / Stats",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 725,
+      "title": "Aura Tree",
+      "url": "https://anime-power-league.fandom.com/wiki/Aura_Tree",
+      "categories": [],
+      "type": "Abilities / Stats",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 288,
+      "title": "Auras",
+      "url": "https://anime-power-league.fandom.com/wiki/Auras",
+      "categories": [],
+      "type": "Abilities / Stats",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 533,
+      "title": "Beginner Guide",
+      "url": "https://anime-power-league.fandom.com/wiki/Beginner_Guide",
+      "categories": [
+        "APL Guides"
+      ],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 498,
+      "title": "Best Item for Each Stat",
+      "url": "https://anime-power-league.fandom.com/wiki/Best_Item_for_Each_Stat",
+      "categories": [
+        "APL Guides"
+      ],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 724,
+      "title": "Clan Rewards",
+      "url": "https://anime-power-league.fandom.com/wiki/Clan_Rewards",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 723,
+      "title": "Clans",
+      "url": "https://anime-power-league.fandom.com/wiki/Clans",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 176,
+      "title": "Defense Areas",
+      "url": "https://anime-power-league.fandom.com/wiki/Defense_Areas",
+      "categories": [],
+      "type": "Abilities / Stats",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 477,
+      "title": "Drops",
+      "url": "https://anime-power-league.fandom.com/wiki/Drops",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 496,
+      "title": "Enemies Info",
+      "url": "https://anime-power-league.fandom.com/wiki/Enemies_Info",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 534,
+      "title": "Enemies Mastery",
+      "url": "https://anime-power-league.fandom.com/wiki/Enemies_Mastery",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 336,
+      "title": "Evolutions",
+      "url": "https://anime-power-league.fandom.com/wiki/Evolutions",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 523,
+      "title": "Exotic",
+      "url": "https://anime-power-league.fandom.com/wiki/Exotic",
+      "categories": [
+        "Pages with broken file links"
+      ],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 290,
+      "title": "Game Passes",
+      "url": "https://anime-power-league.fandom.com/wiki/Game_Passes",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 173,
+      "title": "Health Areas",
+      "url": "https://anime-power-league.fandom.com/wiki/Health_Areas",
+      "categories": [],
+      "type": "Abilities / Stats",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 794,
+      "title": "Magic",
+      "url": "https://anime-power-league.fandom.com/wiki/Magic",
+      "categories": [],
+      "type": "Abilities / Stats",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 177,
+      "title": "Magic Areas",
+      "url": "https://anime-power-league.fandom.com/wiki/Magic_Areas",
+      "categories": [],
+      "type": "Abilities / Stats",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 155,
+      "title": "Main Page",
+      "url": "https://anime-power-league.fandom.com/wiki/Main_Page",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 186,
+      "title": "Melee Areas",
+      "url": "https://anime-power-league.fandom.com/wiki/Melee_Areas",
+      "categories": [],
+      "type": "Abilities / Stats",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 291,
+      "title": "MileStones",
+      "url": "https://anime-power-league.fandom.com/wiki/MileStones",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 175,
+      "title": "Mobility Areas",
+      "url": "https://anime-power-league.fandom.com/wiki/Mobility_Areas",
+      "categories": [],
+      "type": "Abilities / Stats",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 522,
+      "title": "Necklace",
+      "url": "https://anime-power-league.fandom.com/wiki/Necklace",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 548,
+      "title": "Perks",
+      "url": "https://anime-power-league.fandom.com/wiki/Perks",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 174,
+      "title": "Psychic Areas",
+      "url": "https://anime-power-league.fandom.com/wiki/Psychic_Areas",
+      "categories": [],
+      "type": "Abilities / Stats",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 188,
+      "title": "Quest Lines",
+      "url": "https://anime-power-league.fandom.com/wiki/Quest_Lines",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 180,
+      "title": "Ranks",
+      "url": "https://anime-power-league.fandom.com/wiki/Ranks",
+      "categories": [],
+      "type": "Ranks / Progression",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 514,
+      "title": "Relics",
+      "url": "https://anime-power-league.fandom.com/wiki/Relics",
+      "categories": [
+        "Pages with broken file links"
+      ],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 722,
+      "title": "Reputation",
+      "url": "https://anime-power-league.fandom.com/wiki/Reputation",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 184,
+      "title": "Shops",
+      "url": "https://anime-power-league.fandom.com/wiki/Shops",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 495,
+      "title": "Side Quests",
+      "url": "https://anime-power-league.fandom.com/wiki/Side_Quests",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 289,
+      "title": "Stands",
+      "url": "https://anime-power-league.fandom.com/wiki/Stands",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 491,
+      "title": "Stat Upgrades",
+      "url": "https://anime-power-league.fandom.com/wiki/Stat_Upgrades",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 172,
+      "title": "Strength Areas",
+      "url": "https://anime-power-league.fandom.com/wiki/Strength_Areas",
+      "categories": [],
+      "type": "Abilities / Stats",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 551,
+      "title": "Token Tree",
+      "url": "https://anime-power-league.fandom.com/wiki/Token_Tree",
+      "categories": [],
+      "type": "Currency / Tokens",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 182,
+      "title": "Tokens",
+      "url": "https://anime-power-league.fandom.com/wiki/Tokens",
+      "categories": [],
+      "type": "Currency / Tokens",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 524,
+      "title": "Tools",
+      "url": "https://anime-power-league.fandom.com/wiki/Tools",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 185,
+      "title": "Transformations",
+      "url": "https://anime-power-league.fandom.com/wiki/Transformations",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 370,
+      "title": "Vending Machines",
+      "url": "https://anime-power-league.fandom.com/wiki/Vending_Machines",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.501Z"
+    },
+    {
+      "pageId": 183,
+      "title": "Weapons",
+      "url": "https://anime-power-league.fandom.com/wiki/Weapons",
+      "categories": [],
+      "type": "Weapons",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.798Z"
+    },
+    {
+      "pageId": 187,
+      "title": "Weights",
+      "url": "https://anime-power-league.fandom.com/wiki/Weights",
+      "categories": [],
+      "type": "General",
+      "summary": "",
+      "text": "",
+      "importedAt": "2026-05-09T09:41:55.798Z"
+    }
+  ]
+}
