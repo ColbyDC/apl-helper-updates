@@ -2,23 +2,23 @@
   "type": "exe-update",
   "updateType": "exe",
   "channel": "public",
-  "version": "public-v0.1.14",
-  "title": "Public v0.1.13 Batch 10 Final Checklist",
-  "notes": "Built Public v0.1.14.",
-  "createdAt": "2026-05-09T02:15:53.757Z",
+  "version": "public-v0.1.17",
+  "title": "Public v0.1.17 Final Polish",
+  "notes": "Built Public v0.1.17.",
+  "createdAt": "2026-05-09T08:22:20.497Z",
   "repo": "ColbyDC/apl-helper-updates",
   "latestPath": "public/latest-update.json",
-  "historyPath": "public/updates/public-v0.1.14.json",
+  "historyPath": "public/updates/public-v0.1.17.json",
   "requiresExe": true,
   "releaseTag": "public-v0.1.13",
   "exe": {
-    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-public-v0.1.13-batch10-final-checklist\\anime-power-league-helper-public\\dist\\Anime Power League Helper Public-Setup-0.1.14.exe",
-    "originalName": "Anime Power League Helper Public-Setup-0.1.14.exe",
-    "fileName": "Anime-Power-League-Helper-Public-public-v0.1.14.exe",
-    "size": 71132941,
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-public-v0.1.17-final-polish\\anime-power-league-helper-public\\dist\\Anime-Power-League-Helper-Public-0.1.17.exe",
+    "originalName": "Anime-Power-League-Helper-Public-0.1.17.exe",
+    "fileName": "Anime-Power-League-Helper-Public-public-v0.1.17.exe",
+    "size": 71133553,
     "sizeKb": 69466,
     "releaseTag": "public-v0.1.13",
-    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/public-v0.1.13/Anime-Power-League-Helper-Public-public-v0.1.14.exe"
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/public-v0.1.13/Anime-Power-League-Helper-Public-public-v0.1.17.exe"
   },
   "messageOnly": false
 }
