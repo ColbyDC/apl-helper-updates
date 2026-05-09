@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "launcher",
+  "version": "launcher-v0.5.27",
+  "title": "Launcher v0.5.27",
+  "notes": "Built Launcher v0.5.27.",
+  "createdAt": "2026-05-09T00:37:15.920Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "launcher/latest-update.json",
+  "historyPath": "launcher/updates/launcher-v0.5.27.json",
+  "requiresExe": true,
+  "releaseTag": "launcher-v0.5.27",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\anime-power-league-helper-master-v0.5.27-master-lite-launcher-gate\\anime-power-league-helper-master\\dist\\Anime-Power-League-Helper-Master-0.5.27.exe",
+    "originalName": "Anime-Power-League-Helper-Master-0.5.27.exe",
+    "fileName": "Anime-Power-League-Helper-Launcher-launcher-v0.5.27.exe",
+    "size": 71153625,
+    "sizeKb": 69486,
+    "releaseTag": "launcher-v0.5.27",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/launcher-v0.5.27/Anime-Power-League-Helper-Launcher-launcher-v0.5.27.exe"
+  },
+  "messageOnly": false
+}
