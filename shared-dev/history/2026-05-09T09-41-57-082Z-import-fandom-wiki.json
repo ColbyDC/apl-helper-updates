@@ -1,0 +1,42 @@
+{
+  "type": "master-change-history-entry",
+  "action": "import-fandom-wiki",
+  "title": "Imported Fandom wiki database",
+  "summary": {
+    "gameName": "Anime Power League",
+    "domain": "anime-power-league.fandom.com",
+    "pageCount": 42,
+    "githubPath": "shared-dev/wiki/wiki_database.json"
+  },
+  "details": {
+    "homepageUrl": "https://anime-power-league.fandom.com/wiki/Anime_Power_League_Wiki",
+    "categoryCounts": {
+      "APL Guides": 2,
+      "Pages with broken file links": 2
+    },
+    "samplePages": [
+      "Abilities",
+      "Anime Power League Wiki",
+      "Aura Areas",
+      "Aura Tree",
+      "Auras",
+      "Beginner Guide",
+      "Best Item for Each Stat",
+      "Clan Rewards",
+      "Clans",
+      "Defense Areas",
+      "Drops",
+      "Enemies Info",
+      "Enemies Mastery",
+      "Evolutions",
+      "Exotic",
+      "Game Passes",
+      "Health Areas",
+      "Magic",
+      "Magic Areas",
+      "Main Page"
+    ]
+  },
+  "createdAt": "2026-05-09T09:41:57.082Z",
+  "createdBy": "Master"
+}
