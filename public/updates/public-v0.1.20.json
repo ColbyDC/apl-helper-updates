@@ -1,0 +1,24 @@
+{
+  "type": "exe-update",
+  "updateType": "exe",
+  "channel": "public",
+  "version": "public-v0.1.20",
+  "title": "Public v0.1.17 Final Polish",
+  "notes": "Built Public v0.1.20.",
+  "createdAt": "2026-05-10T11:12:01.441Z",
+  "repo": "ColbyDC/apl-helper-updates",
+  "latestPath": "public/latest-update.json",
+  "historyPath": "public/updates/public-v0.1.20.json",
+  "requiresExe": true,
+  "releaseTag": "public-v0.1.13",
+  "exe": {
+    "originalPath": "C:\\Users\\Owner\\OneDrive\\Desktop\\public-v0.1.20-patch-friendly-shell\\anime-power-league-helper-public\\dist\\Anime-Power-League-Helper-Public-0.1.20.exe",
+    "originalName": "Anime-Power-League-Helper-Public-0.1.20.exe",
+    "fileName": "Anime-Power-League-Helper-Public-public-v0.1.20.exe",
+    "size": 71132170,
+    "sizeKb": 69465,
+    "releaseTag": "public-v0.1.13",
+    "downloadUrl": "https://github.com/ColbyDC/apl-helper-updates/releases/download/public-v0.1.13/Anime-Power-League-Helper-Public-public-v0.1.20.exe"
+  },
+  "messageOnly": false
+}
